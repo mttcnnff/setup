@@ -1,0 +1,18 @@
+syntax on
+set number
+set ruler
+set mouse=a
+
+" set the backup dir to not be a project dir
+set backupdir=~/.vim/backup/
+set directory=~/.vim/backup/
+
+" set cursorline on
+set cursorline
+
+" set clipboard to use sytem clipboarrd
+set clipboard=unnamed
+
+" make backspace great again
+:set backspace=indent,eol,start
+:set hlsearch

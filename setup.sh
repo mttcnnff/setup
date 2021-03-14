@@ -55,3 +55,6 @@ sudo chmod +x /usr/local/bin/aws-iam-authenticator
 # Copy zshrc over
 cp my-zshrc ~/.zshrc
 source ~/.zshrc
+
+# Copy vimrc over
+cp my-vimrc ~/.vimrc
